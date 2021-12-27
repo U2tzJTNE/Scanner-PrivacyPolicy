@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="README-zh.md">
+    <b>中文</b>
+  </a>
+</p>
+
 # Scanner-PrivacyPolicy
 
 ## Why do we need your camera permissions?
