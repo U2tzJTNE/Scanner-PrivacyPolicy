@@ -6,6 +6,12 @@
 
 # Scanner-PrivacyPolicy
 
+AppName：Scanner
+
+Developers：蒋路凯
+
+AppId：com.u2tzjtne.scanner
+
 ## Why do we need your camera permissions?
 Due to Android's permission mechanism, the camera can only be accessed after the user grants the corresponding permission, so for the normal operation of the program, we need your authorization.
 
